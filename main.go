@@ -9,5 +9,7 @@ func main() {
 	fmt.Println(z)
 	var day = "sunday"
 	var rest= "siesta"
+	fmt.Println(day)
+	fmt.Println(rest)
 
 }
