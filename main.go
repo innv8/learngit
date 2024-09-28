@@ -13,3 +13,9 @@ func main() {
 	fmt.Println(rest)
 
 }
+func Addition(){
+	
+ }
+func subtact(){
+
+}
